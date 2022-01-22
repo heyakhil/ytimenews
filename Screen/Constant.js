@@ -1,0 +1,1 @@
+export var API_KEY = 'rG2Kg92A6QsSahHC9syOjHf4CxOo6LdO'
